@@ -10,7 +10,7 @@ In your File Editor, add a new folder named "themes" in your home assistant.
    
 2) Create a "theme_tempo.yaml" file
 
-In your new "Themes" folder, add a new file name "theme_tempo.yaml".
+In your new "Themes" folder, add a new file named "theme_tempo.yaml".
 
 3) Edit your configuration.yaml
 
