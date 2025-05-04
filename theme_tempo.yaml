@@ -1,0 +1,24 @@
+theme_tempo:
+# Pouvoir choisir entre un thème sombres et clair
+  primary-color: coral
+  modes:
+    light:
+      secondary-text-color: olive
+    dark:
+      secondary-text-color: slategray
+          
+# Couleurs personnalisées pour les sources d'énergie
+  # Jour blanc HC : 
+  energy-grid-consumption-color-0: "#fff"
+  # Jour bleu HC :
+  energy-grid-consumption-color-1: "#85C1E9"
+  # Jour rouge HC : 
+  energy-grid-consumption-color-2: "#E60000"
+  # Jour blanc HP :
+  energy-grid-consumption-color-3: "#cccccc"
+  # Jour bleu HP :
+  energy-grid-consumption-color-4: "#21618C"
+  # Jour rouge HP : 
+  energy-grid-consumption-color-5: "#850606"
+  # Standard : Tarif Base
+  energy-grid-consumption-color-6: "#9eb75c"
