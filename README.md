@@ -2,7 +2,7 @@ This is based on @zatoufly 's work (available on Github https://github.com/zatou
 
 How customize the colors of your energy dashboard on Home Assistant ?
 
-Here we are base on a french electricity contract named "Tempo", which allow 3 colors and 6 options (high or low price for each color).
+Here we are based on a french electricity contract named "Tempo", which allow 3 colors and 6 options (high or low price for each color).
 
 1) Create a "themes" folder
 
