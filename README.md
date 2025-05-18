@@ -1,4 +1,4 @@
-  <h3 align="center">How customize the colors of your energy dashboard on Home Assistant ?</h3>
+  <h3 align="center">How to customize the colors of your energy dashboard on Home Assistant ?</h3>
 </div>
 
 ### Built With
