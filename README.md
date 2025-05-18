@@ -66,7 +66,7 @@ Select your profile, then you can choose your theme and if you prefer dark or li
 ## Usage
 
 <a href="https://github.com/ClaraVnk/home-assistant-custom-energy-dashboard">
-    <img src="energy_dashboard.png" alt="Logo" width="80" height="80">
+    <img src="energy_dashboard.png">
   </a>
 
 <!-- CONTRIBUTING -->
