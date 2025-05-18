@@ -80,4 +80,4 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-This is based on @zatoufly 's work (available on Github https://github.com/zatoufly)
+This is based on [@zatoufly](https://github.com/zatoufly)'s work
